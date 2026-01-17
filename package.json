@@ -1,0 +1,23 @@
+{
+  "name": "evocircuit",
+  "version": "1.0.0",
+  "description": "Adaptive Circuit Breaker SDK for TypeScript",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "circuit-breaker",
+    "fault-tolerance",
+    "distributed-systems",
+    "adaptive",
+    "typescript"
+  ],
+  "author": "Daksha Dubey",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
